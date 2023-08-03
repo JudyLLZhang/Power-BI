@@ -6,4 +6,5 @@
 ## **2. Actual vs Budget**
    - Created a calendar accroding the dataset.
    - Location format set as country for map.
+     ![Fig1 Budget vs Actual in Jan 2020](https://github.com/JudyLLZhang/Power-BI/blob/main/budget%20vs%20actual_Jan2020_1.png)
 
